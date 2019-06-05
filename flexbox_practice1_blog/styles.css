@@ -1,0 +1,46 @@
+body {
+    background: rgb(238, 97, 179);
+    font-family: sans-serif;
+}
+h2, h3, h4, p {
+    margin: 0px;
+    padding-top: 20px;
+}
+p {
+    margin: 0px;
+    padding: 10px;
+}
+.advertisement {
+    width: 100%; 
+}
+.image-blog-steps {
+    width: 80%;
+    margin: 0 auto;
+}
+.post-content {
+    display: flex;
+    flex-direction: column;
+}
+.avatar {
+    width: 15%;
+    height: 15%;
+}
+.user-info-container {
+    display: flex;
+}
+.content-social-network {
+    display: flex;
+    justify-content: center;
+}
+.fb, .twitter {
+    margin: 15px;
+}
+.better-life {
+    width: 30%;
+    height: 30%;
+}
+.container-articles-content, .container-articles-titles, .container-articles-text {
+    display: flex;
+    justify-content: space-evenly
+
+}
